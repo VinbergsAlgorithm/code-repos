@@ -4,7 +4,7 @@ Known realizations of the Vinberg algorithm are added here as submodules.
 
 ## What is included?
 
-- `sage/` is our original realization in **Sagemath** (by Bogachev and Perepechko), [taken from this tag](https://github.com/aperep/vinal/releases/tag/0.2.0) as a subtree. 
+- `sage-original/` is our original realization in **Sagemath** (by Bogachev and Perepechko), [taken from this tag](https://github.com/aperep/vinal/releases/tag/0.2.0) as subtree.
 
 - `python/` is a rewrite in **sympy** (again by Bogachev and Perepechko), [taken from here](https://github.com/aperep/vinal). It includes [CoxIter](https://rgugliel.github.io/CoxIter/) by Rafael Guglielmetti as a submodule, which is [taken from here](https://github.com/rgugliel/CoxIter).
 
